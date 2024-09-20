@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(20, 1, 66);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 650px;
+    margin: 0;
+}
+
+button {
+    background-color: black;
+    color: white;
+    
+}
